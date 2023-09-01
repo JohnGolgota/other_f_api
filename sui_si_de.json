@@ -1,0 +1,7 @@
+{
+  "death":false,
+  "immortality":{
+    "value":true,
+    "msg":"hasta que se demuestre lo contrario"
+  }
+}
